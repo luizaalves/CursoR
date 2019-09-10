@@ -6,6 +6,7 @@ gender
 #[1] MALE FAMALE MALE
 #levels: FEMALE MALE
 
+
 blood <- factor(c("O","AB","A"),
                 levels = c("A", "B", "AB","O"))
 
