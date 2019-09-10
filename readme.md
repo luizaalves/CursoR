@@ -22,10 +22,15 @@ library(neuralnet)
 **Estrutura de dados do R**
 
 **Vetores:** Semelhante ao matlab/octave.
+
 **Fatores:** Somente para representar variáveis categóricas e ordinais. (ex. quente, frio, chuvoso/ níveis de paciente)
+
 **Matrizes:** Vetores do mesmo tipo
+
 **Listas:** Permite armazenar elementos de diferentes tipos.(ex.: informação de um paciente)
+
 **Data frame:** Lista de vetores ou fatores do mesmo tamanho.(vamos usar mais/ex. varios pacientes por linha e as colunas info do paciente que nem sempre são do mesmo tipo)
+
 **Funções:** Rotinas com propósitos específicos.
 
 leitura de arquivo csv separado por vírgulas 
