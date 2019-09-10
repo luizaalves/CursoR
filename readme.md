@@ -45,4 +45,4 @@ more> set as work directory
 
 https://www.dropbox.com/sh/yknvfn9702lp0ml/AACwATEE2kl08IFzJT7dydpza?dl=0
 
-
+    Regressão linear
