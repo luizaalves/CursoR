@@ -35,9 +35,8 @@ library(neuralnet)
 
 leitura de arquivo csv separado por vírgulas 
 
-Ex. de vetores
-Primeiro vetor nome do paciente.
-Segundo vetor temperatura.
-
+Ex. de vetores, fatores, lista e data frame
 
 more> set as work directory
+
+
