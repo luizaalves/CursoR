@@ -1,11 +1,13 @@
 ## Machine Learning with R ##
 
-https://www.dropbox.com/sh/f58f23teber9zbo/AAC73J5zzG4qEPNvoMrPv1Gqa?dl=0
-
 **Definições:**
 Inteligência artificial, uma máquina que pensa.
 
 Transformar um conjunto de dados em ações inteligentes.
+
+**Primeiro encontro:**
+
+https://www.dropbox.com/sh/yknvfn9702lp0ml/AACwATEE2kl08IFzJT7dydpza?dl=0
 
 Programa: RStudio
 
@@ -38,5 +40,9 @@ leitura de arquivo csv separado por vírgulas
 Ex. de vetores, fatores, lista e data frame
 
 more> set as work directory
+
+**Segundo encontro:**
+
+https://www.dropbox.com/sh/yknvfn9702lp0ml/AACwATEE2kl08IFzJT7dydpza?dl=0
 
 
