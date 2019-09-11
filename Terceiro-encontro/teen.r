@@ -45,6 +45,6 @@ teen_clusters$size
 
 teen_clusters$centers #valores negativos pro ter normalizado(desviando da média)
 
-teen_cluster <- teen_clusters$cluster
+teens$cluster <- teen_clusters$cluster
 
 teens[1:5, c("cluster","gender","age","friends")]
