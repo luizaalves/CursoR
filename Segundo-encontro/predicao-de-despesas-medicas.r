@@ -22,4 +22,9 @@ cor(insurance[c("age","bmi","children","expenses")])
 
 ins_model <- lm(expenses ~ age + children + bmi + sex + smoker + region, data = insurance)
 
+#analisando o modelo
 ins_model
+
+#avaliando o desempenho do modelo
+summary(ins_model)
+#segunda parte, quanto cada variavel está impactando no resultado (quanto mais asteristico mais interfere no resultado)
