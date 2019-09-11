@@ -33,7 +33,7 @@ wbcd_test <- wbcd_n[470:569, ]
 
 #pega só a primeira coluna
 wbcd_train_labels <- wbcd[1: 469,1]
-wbcd_test_labels <- wbcd_n[470:569,1]
+wbcd_test_labels <- wbcd[470:569,1]
 
 #algoritmo knn avaliar os vizinhos mais proximos para avaliar as proximas amostras
 

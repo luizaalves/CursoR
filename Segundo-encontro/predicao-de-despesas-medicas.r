@@ -28,3 +28,9 @@ ins_model
 #avaliando o desempenho do modelo
 summary(ins_model)
 #segunda parte, quanto cada variavel está impactando no resultado (quanto mais asteristico mais interfere no resultado)
+
+insurance$age2 <- insurance$age^2
+#insurance$bmi30 <- ifelse(insurance$bmi >=30, 1,0)
+ins_model2 <- lm(expenses ~ age2 + children + bmi + smoker + region, data = insurance)
+
+summary(ins_model2)
