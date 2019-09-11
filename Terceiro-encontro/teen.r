@@ -37,6 +37,14 @@ interests <-teens[5:40] #deixa somente as variaveis numericas pega do intervalo 
 interests_z <- as.data.frame(lapply(interests, scale)) #função z score faz uma normalização automatica
 #coloca a media de todas as variaveis pra zero 
 
-set.seed(2345)
+set.seed(2345) #ele trabalha com inicialização aleatoria das centróides e ta setando a semente aleatoria
 
 teen_clusters <- kmeans(interests_z, 5)
+
+teen_clusters$size
+
+teen_clusters$centers #valores negativos pro ter normalizado(desviando da média)
+
+teen_cluster <- teen_clusters$cluster
+
+teens[1:5, c("cluster","gender","age","friends")]
