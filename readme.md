@@ -46,3 +46,38 @@ more> set as work directory
 https://www.dropbox.com/sh/yknvfn9702lp0ml/AACwATEE2kl08IFzJT7dydpza?dl=0
 
     Regressão linear
+
+**Terceiro encontro:**
+
+https://www.dropbox.com/sh/b2ycqeg38eiap59/AACP-qQGncDSNL4floRuECcja?dl=0
+
+Coletar dados de uma rede social, detectar semelhanças e analisá-la (Técnica clustering)
+
+Dividir conjunto de dados e x grupos que tem semelhanças 
+
+Temos que passar como entrada qual a semelhança que quer que ele divida
+
+### Algoritmo K-Means ###
+
+Inserir dois pontos de forma aleatória;
+
+Começa a calcular a distancia entre os "centroides" de todos os pontos;
+
+Vê qual está mais próximo e classifica, calcula uma média pra reposicionar a 'centroide' e faz novamente o calculo da distancia, reagrupa etc etc, até que nao tenha mais mudança nas bolinhas;
+
+E assim tem-se os grupos definidos;
+
+Resultado final tem uma dependencia do resultado inicial.
+
+k-means utiliza a distância euclidiana
+
+Passos:
+1º passo: Coleta dados.
+2º passo: Explorar e preparar dados.
+3º passo: Treinar modelo.
+4º passo: Analisar modelo.
+
+
+
+
+
