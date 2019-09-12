@@ -77,6 +77,12 @@ Passos:
 3º passo: Treinar modelo.
 4º passo: Analisar modelo.
 
+### Técnica Naive Bayes ###
+
+Pegar um conjunto de pequenas tomadas de decisões
+Prob. de ocorrencia de cada palavra
+Depois de combinar todas as probab. ele chega em um resultado
+
 
 
 
