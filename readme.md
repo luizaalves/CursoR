@@ -71,10 +71,14 @@ Resultado final tem uma dependencia do resultado inicial.
 
 k-means utiliza a distância euclidiana
 
-Passos:
+**Passos:**
+
 1º passo: Coleta dados.
+
 2º passo: Explorar e preparar dados.
+
 3º passo: Treinar modelo.
+
 4º passo: Analisar modelo.
 
 ### Técnica Naive Bayes ###
@@ -83,6 +87,7 @@ Pegar um conjunto de pequenas tomadas de decisões
 Prob. de ocorrencia de cada palavra
 Depois de combinar todas as probab. ele chega em um resultado
 
+Mutuamente excludente (frequencia de ocorrencia de determinado evento)
 
 
 
